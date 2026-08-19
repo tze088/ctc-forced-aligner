@@ -1,3 +1,5 @@
+Fork of MahmoudAshraf97/ctc-forced-aligner — see FORK.md. Upstream is the one you probably want.
+
 <h1 align="center">Forced Alignment with Hugging Face CTC Models</h1>
 
 [![FreePalestine.Dev](https://freepalestine.dev/header/1)](https://freepalestine.dev)
